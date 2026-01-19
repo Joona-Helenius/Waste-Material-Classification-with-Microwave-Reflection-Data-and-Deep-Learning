@@ -1,5 +1,7 @@
 # Waste Material Classification with Wicrowave Reflection Data and Deep Learning
 
+Readme is a work in progress and will be filled out with more details in the future.
+
 The code used in my master's thesis in the University of Turku that has been modified slightly in preparation of publication. The performance of DNN models are tested on a custom dataset of microwave reflections taken from cardboard, plastic and metal objects to assess if microwave reflections contain information that could be used to identify the object material using machine learning. The thesis itself can be found [here](https://www.utupub.fi/handle/10024/194492).
 
 ## Dataset
