@@ -22,6 +22,8 @@ In binary classification the model is used to classify non-metal and metal sampl
 
 In addition to the ML training files .ipynb-file used for data exploration is also included in this repository.
 
+## Citation
+If you utilize this project or this thesis, please cite them as follows:
 ```
 {
 Title: "Waste Material Classification with Microwave Reflection Data and Deep Learning"
