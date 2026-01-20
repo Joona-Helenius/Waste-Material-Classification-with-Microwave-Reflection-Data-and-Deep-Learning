@@ -21,3 +21,15 @@ Four different data configurations were selected and for each of these configura
 In binary classification the model is used to classify non-metal and metal samples with the non-metal set being the combination of the plastic and cardboard sets. In multiclass classification all three classes are present. In item-based splitting the data is split such that all .s2p-files measured from one object are only present in one of the three partitions of the data used in training (train, validation, test). In random splitting this distinction is ignored.
 
 In addition to the ML training files .ipynb-file used for data exploration is also included in this repository.
+
+```
+{
+Title: "Waste Material Classification with Microwave Reflection Data and Deep Learning"
+Author: Joona Helenius
+Date: November, 2025
+University: University of Turku
+Link to Master's Thesis: https://www.utupub.fi/handle/10024/194492
+OR
+Link to the code of the Master's Thesis: [https://github.com/Oona-Leppanen/SR-Diffusion-Model-as-a-Data-Augmentation-Method-in-CNN](https://github.com/Joona-Helenius/Waste-Material-Classification-with-Microwave-Reflection-Data-and-Deep-Learning
+}
+```
